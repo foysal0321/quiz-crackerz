@@ -1,0 +1,25 @@
+
+.question{
+    background-color: rgb(202, 202, 202);
+    padding: 20px;
+    margin: 12px;
+    border-radius: 9px;
+}
+.questionIcon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.q1, .q2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.question .q{
+    background-color: beige;
+    max-width: 400px;
+    padding: 12px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
